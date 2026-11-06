@@ -1,0 +1,39 @@
+{
+ "e0_spAB_old": [
+  "pick up the black bowl on the wooden cabinet and place it on the plate"
+ ],
+ "e0_spAB_new": [
+  "pick up the black bowl on the stove and place it on the plate"
+ ],
+ "e0_spBA_old": [
+  "pick up the black bowl on the stove and place it on the plate"
+ ],
+ "e0_spBA_new": [
+  "pick up the black bowl on the wooden cabinet and place it on the plate"
+ ],
+ "e0_goal_t0_": [
+  "turn on the stove"
+ ],
+ "e0_goal_t1_": [
+  "put the bowl on the plate"
+ ],
+ "e0_goal_t2_": [
+  "put the cream cheese in the bowl"
+ ],
+ "e0_goal_t3_": [],
+ "e0_goal_t4_": [],
+ "e0_goal_t5_": [],
+ "e0_goal_t6_": [
+  "put the wine bottle on top of the cabinet"
+ ],
+ "e0_goal_t7_": [
+  "open the middle drawer of the cabinet"
+ ],
+ "e0_goal_t8_": [
+  "put the wine bottle on the rack",
+  "put the bowl on the stove"
+ ],
+ "e0_goal_t9_": [
+  "put the bowl on the plate"
+ ]
+}
